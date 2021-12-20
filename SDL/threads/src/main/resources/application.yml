@@ -1,0 +1,9 @@
+spring:
+  main:
+    banner-mode: off
+
+pool:
+  core-threads: 3
+  max-threads: 3
+  keep-alive: 10s
+  queue-size: 1000000

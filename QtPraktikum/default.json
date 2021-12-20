@@ -1,0 +1,602 @@
+[
+    {
+        "customer": "Lupe",
+        "id": "0",
+        "isGift": true,
+        "price": 80653.96
+    },
+    {
+        "customer": "Sheppard",
+        "id": "1",
+        "isGift": true,
+        "price": 88741.82
+    },
+    {
+        "customer": "Lynda",
+        "id": "2",
+        "isGift": false,
+        "price": 67625.87
+    },
+    {
+        "customer": "Lynne",
+        "id": "3",
+        "isGift": true,
+        "price": 80924.55
+    },
+    {
+        "customer": "Barry",
+        "id": "4",
+        "isGift": false,
+        "price": 11167.96
+    },
+    {
+        "customer": "Letha",
+        "id": "5",
+        "isGift": false,
+        "price": 32388.02
+    },
+    {
+        "customer": "Pennington",
+        "id": "6",
+        "isGift": true,
+        "price": 27090.14
+    },
+    {
+        "customer": "Callie",
+        "id": "7",
+        "isGift": true,
+        "price": 44015.16
+    },
+    {
+        "customer": "Craft",
+        "id": "8",
+        "isGift": false,
+        "price": 82980.63
+    },
+    {
+        "customer": "Hudson",
+        "id": "9",
+        "isGift": false,
+        "price": 90628.4
+    },
+    {
+        "customer": "Slater",
+        "id": "10",
+        "isGift": true,
+        "price": 49419.66
+    },
+    {
+        "customer": "Anthony",
+        "id": "11",
+        "isGift": false,
+        "price": 41654
+    },
+    {
+        "customer": "Marla",
+        "id": "12",
+        "isGift": false,
+        "price": 67905.63
+    },
+    {
+        "customer": "Durham",
+        "id": "13",
+        "isGift": true,
+        "price": 14786.41
+    },
+    {
+        "customer": "Gilbert",
+        "id": "14",
+        "isGift": false,
+        "price": 13551.89
+    },
+    {
+        "customer": "Hanson",
+        "id": "15",
+        "isGift": false,
+        "price": 59455.72
+    },
+    {
+        "customer": "Jenna",
+        "id": "16",
+        "isGift": false,
+        "price": 70690.29
+    },
+    {
+        "customer": "Henderson",
+        "id": "17",
+        "isGift": false,
+        "price": 92778.74
+    },
+    {
+        "customer": "Harrison",
+        "id": "18",
+        "isGift": true,
+        "price": 48151.05
+    },
+    {
+        "customer": "Sparks",
+        "id": "19",
+        "isGift": false,
+        "price": 59865.73
+    },
+    {
+        "customer": "Caldwell",
+        "id": "20",
+        "isGift": true,
+        "price": 84829.05
+    },
+    {
+        "customer": "Luella",
+        "id": "21",
+        "isGift": false,
+        "price": 25267.86
+    },
+    {
+        "customer": "Sargent",
+        "id": "22",
+        "isGift": false,
+        "price": 53118.01
+    },
+    {
+        "customer": "Joanne",
+        "id": "23",
+        "isGift": true,
+        "price": 30565.54
+    },
+    {
+        "customer": "Saundra",
+        "id": "24",
+        "isGift": false,
+        "price": 25312.46
+    },
+    {
+        "customer": "Nanette",
+        "id": "25",
+        "isGift": false,
+        "price": 14409.14
+    },
+    {
+        "customer": "Albert",
+        "id": "26",
+        "isGift": true,
+        "price": 79691.21
+    },
+    {
+        "customer": "Barnes",
+        "id": "27",
+        "isGift": false,
+        "price": 49990.57
+    },
+    {
+        "customer": "Serena",
+        "id": "28",
+        "isGift": false,
+        "price": 1160.75
+    },
+    {
+        "customer": "Lillian",
+        "id": "29",
+        "isGift": false,
+        "price": 78707.26
+    },
+    {
+        "customer": "Kaitlin",
+        "id": "30",
+        "isGift": false,
+        "price": 10044.3
+    },
+    {
+        "customer": "Walters",
+        "id": "31",
+        "isGift": true,
+        "price": 38168.93
+    },
+    {
+        "customer": "Glenna",
+        "id": "32",
+        "isGift": true,
+        "price": 30674.2
+    },
+    {
+        "customer": "Crane",
+        "id": "33",
+        "isGift": true,
+        "price": 18691.5
+    },
+    {
+        "customer": "Daphne",
+        "id": "34",
+        "isGift": false,
+        "price": 24178
+    },
+    {
+        "customer": "Angel",
+        "id": "35",
+        "isGift": false,
+        "price": 4724.46
+    },
+    {
+        "customer": "Mathis",
+        "id": "36",
+        "isGift": false,
+        "price": 65499.06
+    },
+    {
+        "customer": "Ortiz",
+        "id": "37",
+        "isGift": false,
+        "price": 38101.04
+    },
+    {
+        "customer": "Andrews",
+        "id": "38",
+        "isGift": false,
+        "price": 52468.27
+    },
+    {
+        "customer": "Janelle",
+        "id": "39",
+        "isGift": true,
+        "price": 29756.46
+    },
+    {
+        "customer": "Powers",
+        "id": "40",
+        "isGift": true,
+        "price": 44906.77
+    },
+    {
+        "customer": "Mcneil",
+        "id": "41",
+        "isGift": false,
+        "price": 79078.01
+    },
+    {
+        "customer": "Bender",
+        "id": "42",
+        "isGift": true,
+        "price": 16857.56
+    },
+    {
+        "customer": "Rodriguez",
+        "id": "43",
+        "isGift": true,
+        "price": 68450.05
+    },
+    {
+        "customer": "Verna",
+        "id": "44",
+        "isGift": false,
+        "price": 76280.96
+    },
+    {
+        "customer": "Florence",
+        "id": "45",
+        "isGift": true,
+        "price": 41350.36
+    },
+    {
+        "customer": "Nell",
+        "id": "46",
+        "isGift": false,
+        "price": 14030.08
+    },
+    {
+        "customer": "Tiffany",
+        "id": "47",
+        "isGift": false,
+        "price": 68225.31
+    },
+    {
+        "customer": "Washington",
+        "id": "48",
+        "isGift": false,
+        "price": 22799.82
+    },
+    {
+        "customer": "Rosalinda",
+        "id": "49",
+        "isGift": false,
+        "price": 16392.11
+    },
+    {
+        "customer": "Terry",
+        "id": "50",
+        "isGift": true,
+        "price": 53856.86
+    },
+    {
+        "customer": "Chavez",
+        "id": "51",
+        "isGift": false,
+        "price": 14940.68
+    },
+    {
+        "customer": "Lula",
+        "id": "52",
+        "isGift": false,
+        "price": 89285.53
+    },
+    {
+        "customer": "Hernandez",
+        "id": "53",
+        "isGift": false,
+        "price": 19131.47
+    },
+    {
+        "customer": "Jeanine",
+        "id": "54",
+        "isGift": true,
+        "price": 83202.96
+    },
+    {
+        "customer": "Raymond",
+        "id": "55",
+        "isGift": true,
+        "price": 70612.22
+    },
+    {
+        "customer": "Bernadine",
+        "id": "56",
+        "isGift": true,
+        "price": 60905.15
+    },
+    {
+        "customer": "Meyers",
+        "id": "57",
+        "isGift": false,
+        "price": 50515.79
+    },
+    {
+        "customer": "Lou",
+        "id": "58",
+        "isGift": true,
+        "price": 71852.29
+    },
+    {
+        "customer": "Clay",
+        "id": "59",
+        "isGift": false,
+        "price": 72269.47
+    },
+    {
+        "customer": "Underwood",
+        "id": "60",
+        "isGift": false,
+        "price": 66863.9
+    },
+    {
+        "customer": "Peterson",
+        "id": "61",
+        "isGift": true,
+        "price": 95296.54
+    },
+    {
+        "customer": "Morton",
+        "id": "62",
+        "isGift": true,
+        "price": 90476.32
+    },
+    {
+        "customer": "Anderson",
+        "id": "63",
+        "isGift": false,
+        "price": 29500.05
+    },
+    {
+        "customer": "Francesca",
+        "id": "64",
+        "isGift": false,
+        "price": 31291.04
+    },
+    {
+        "customer": "Penny",
+        "id": "65",
+        "isGift": false,
+        "price": 43567.05
+    },
+    {
+        "customer": "Nettie",
+        "id": "66",
+        "isGift": true,
+        "price": 4248.33
+    },
+    {
+        "customer": "Barbara",
+        "id": "67",
+        "isGift": true,
+        "price": 28931.76
+    },
+    {
+        "customer": "Carolina",
+        "id": "68",
+        "isGift": false,
+        "price": 69527.42
+    },
+    {
+        "customer": "Theresa",
+        "id": "69",
+        "isGift": true,
+        "price": 8154.97
+    },
+    {
+        "customer": "Carla",
+        "id": "70",
+        "isGift": true,
+        "price": 31245.42
+    },
+    {
+        "customer": "Herrera",
+        "id": "71",
+        "isGift": false,
+        "price": 1027.33
+    },
+    {
+        "customer": "Rush",
+        "id": "72",
+        "isGift": false,
+        "price": 97114.64
+    },
+    {
+        "customer": "Kramer",
+        "id": "73",
+        "isGift": true,
+        "price": 42635.37
+    },
+    {
+        "customer": "Elsa",
+        "id": "74",
+        "isGift": true,
+        "price": 5633.23
+    },
+    {
+        "customer": "Susanna",
+        "id": "75",
+        "isGift": true,
+        "price": 59205.33
+    },
+    {
+        "customer": "Becky",
+        "id": "76",
+        "isGift": false,
+        "price": 44730.88
+    },
+    {
+        "customer": "Reilly",
+        "id": "77",
+        "isGift": false,
+        "price": 98495.98
+    },
+    {
+        "customer": "Mays",
+        "id": "78",
+        "isGift": true,
+        "price": 88997.27
+    },
+    {
+        "customer": "Solis",
+        "id": "79",
+        "isGift": true,
+        "price": 5944.55
+    },
+    {
+        "customer": "Osborn",
+        "id": "80",
+        "isGift": true,
+        "price": 45515.71
+    },
+    {
+        "customer": "Maricela",
+        "id": "81",
+        "isGift": false,
+        "price": 42042.04
+    },
+    {
+        "customer": "Bettie",
+        "id": "82",
+        "isGift": true,
+        "price": 70964.24
+    },
+    {
+        "customer": "Irwin",
+        "id": "83",
+        "isGift": true,
+        "price": 37987.9
+    },
+    {
+        "customer": "George",
+        "id": "84",
+        "isGift": true,
+        "price": 20524.59
+    },
+    {
+        "customer": "Espinoza",
+        "id": "85",
+        "isGift": true,
+        "price": 41907.89
+    },
+    {
+        "customer": "Ginger",
+        "id": "86",
+        "isGift": true,
+        "price": 90415.4
+    },
+    {
+        "customer": "Schwartz",
+        "id": "87",
+        "isGift": false,
+        "price": 78896.21
+    },
+    {
+        "customer": "Cash",
+        "id": "88",
+        "isGift": false,
+        "price": 96734.05
+    },
+    {
+        "customer": "Mckenzie",
+        "id": "89",
+        "isGift": true,
+        "price": 53396.64
+    },
+    {
+        "customer": "Vickie",
+        "id": "90",
+        "isGift": false,
+        "price": 36291.39
+    },
+    {
+        "customer": "Bray",
+        "id": "91",
+        "isGift": true,
+        "price": 37191.07
+    },
+    {
+        "customer": "Sullivan",
+        "id": "92",
+        "isGift": false,
+        "price": 95053.75
+    },
+    {
+        "customer": "Bradley",
+        "id": "93",
+        "isGift": false,
+        "price": 63900.22
+    },
+    {
+        "customer": "Nichols",
+        "id": "94",
+        "isGift": false,
+        "price": 51422.66
+    },
+    {
+        "customer": "Annette",
+        "id": "95",
+        "isGift": true,
+        "price": 85487.3
+    },
+    {
+        "customer": "Ola",
+        "id": "96",
+        "isGift": true,
+        "price": 68739.43
+    },
+    {
+        "customer": "Mara",
+        "id": "97",
+        "isGift": true,
+        "price": 36739.72
+    },
+    {
+        "customer": "Yang",
+        "id": "98",
+        "isGift": false,
+        "price": 1973.77
+    },
+    {
+        "customer": "Mcbride",
+        "id": "99",
+        "isGift": false,
+        "price": 50467.23
+    }
+]

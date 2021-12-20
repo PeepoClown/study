@@ -1,0 +1,11 @@
+server:
+  port: 54321
+
+spring:
+  main:
+    banner-mode: off
+
+jakarta:
+  xml:
+    bind:
+      JAXBContextFactory: org.eclipse.persistence.jaxb.JAXBContextFactory

@@ -1,0 +1,10 @@
+admin
+login
+user
+username
+administrator
+petya
+petr
+ivan
+vanya
+log4j
