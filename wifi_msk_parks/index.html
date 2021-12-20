@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Google Maps JavaScript API Example: Simple Map</title>
+    <style>
+      * {
+        font-family: "Liberation Sans", serif;
+      }
+      .centred {
+        text-align: center;
+      }
+    </style>
+  </head>
+
+  <body onload="initialize()" topmargin="3" leftmargin="3">
+    <div id="map" style="width: 575px; height: 555px;"></div>
+    <div class="centred">Information</div>
+    <div>Wi-fi name  : <span id="wifiName"></span></div>
+    <div>Park name   : <span id="parkName"></span></div>
+    <div>Location    : <span id="location"></span></div>
+    <div>Coordinates : <span id="coordinates"></span></div>
+
+    <!-- add script with src = googlemapsapi?key -->
+
+    <script type="text/javascript">
+      function initialize() {
+          var map = new google.maps.Map(document.getElementById('map'), {
+            center: {lat: 55.75222, lng: 37.61556},
+            zoom: 10
+          });
+      }
+    </script>
+  </body>
+</html>
