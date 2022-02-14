@@ -1,0 +1,126 @@
+[
+  {
+    "name": "естественно-научный",
+    "cathedra": "кафедра естественных наук",
+    "subjects": [
+      {
+        "name": "Математический анализ",
+        "duration": 3,
+        "semesters": [ 1, 2, 3 ]
+      },
+      {
+        "name": "Линейная алгебра",
+        "duration": 2,
+        "semesters": [ 2, 3 ]
+      },
+      {
+        "name": "Аналитическая геометрия",
+        "duration": 2,
+        "semesters": [ 1, 2 ]
+      },
+      {
+        "name": "Физика",
+        "duration": 4,
+        "semesters": [ 1, 2, 3, 4 ]
+      },
+      {
+        "name": "Сопротивление материалов",
+        "duration": 1,
+        "semesters": [ 5 ]
+      },
+      {
+        "name": "Методы оптимизации",
+        "duration": 1,
+        "semesters": [ 6 ]
+      }
+    ]
+  },
+  {
+    "name": "информаионные технологии",
+    "cathedra": "кафедра информационных технологий",
+    "subjects": [
+      {
+        "name": "Процедурное программирование",
+        "duration": 1,
+        "semesters": [ 1 ]
+      },
+      {
+        "name": "ООП",
+        "duration": 2,
+        "semesters": [ 2, 3 ]
+      },
+      {
+        "name": "Структуры данных и алгоритмы",
+        "duration": 2,
+        "semesters": [ 2, 3 ]
+      },
+      {
+        "name": "Web программирование",
+        "duration": 2,
+        "semesters": [ 3, 4 ]
+      },
+      {
+        "name": "Сетевые технологии",
+        "duration": 3,
+        "semesters": [ 5, 6, 7 ]
+      },
+      {
+        "name": "Проектирование БД",
+        "duration": 2,
+        "semesters": [ 7, 8 ]
+      }
+    ]
+  },
+  {
+    "name": "гумманитарные науки",
+    "cathedra": "кафедра гумманитарных наук",
+    "subjects": [
+      {
+        "name": "История",
+        "duration": 1,
+        "semesters": [ 1 ]
+      },
+      {
+        "name": "Экономика",
+        "duration": 1,
+        "semesters": [ 2 ]
+      },
+      {
+        "name": "Право",
+        "duration": 1,
+        "semesters": [ 3 ]
+      },
+      {
+        "name": "Философия",
+        "duration": 1,
+        "semesters": [ 4 ]
+      }
+    ]
+  },
+  {
+    "name": "разработка ПО",
+    "cathedra": "кафедра информационных технологий",
+    "subjects": [
+      {
+        "name": "Промышленая разработка на Java",
+        "duration": 2,
+        "semesters": [ 5, 6 ]
+      },
+      {
+        "name": "Облачные технологии",
+        "duration": 2,
+        "semesters": [ 6, 7 ]
+      },
+      {
+        "name": "Создание безопасного ПО",
+        "duration": 2,
+        "semesters": [ 7, 8 ]
+      },
+      {
+        "name": "Проетирование высокоуровнего API",
+        "duration": 1,
+        "semesters": [ 8 ]
+      }
+    ]
+  }
+]

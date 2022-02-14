@@ -1,0 +1,77 @@
+version: '3.8'
+
+services:
+  redis:
+    image: redis:latest
+    container_name: redis
+    pull_policy: if_not_present
+    restart: always
+    ports:
+      - 6379:6379
+    volumes:
+      - ./volumes/redis:/data
+    networks:
+      - study
+
+  mongo:
+    image: mongo:latest
+    container_name: mongo
+    pull_policy: if_not_present
+    restart: always
+    ports:
+      - 27017:27017
+    volumes:
+      - ./volumes/mongo:/data/db
+    networks:
+      - study
+
+  neo4j:
+    image: neo4j:latest
+    container_name: neo4j
+    pull_policy: if_not_present
+    restart: always
+    ports:
+      - 7474:7474
+      - 7687:7687
+    volumes:
+      - ./volumes/neo4j:/data
+    environment:
+      - NEO4J_AUTH=neo4j/dev
+    networks:
+      - study
+
+  elastic:
+    image: elasticsearch:7.14.2
+    container_name: elastic
+    pull_policy: if_not_present
+    restart: always
+    ports:
+      - 9200:9200
+      - 9300:9300
+    volumes:
+      - ./volumes/elastic:/var/db/data/elasticsearch
+    environment:
+      - "discovery.type=single-node"
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    networks:
+      - study
+
+  postgres:
+    image: postgres:latest
+    container_name: postgres
+    pull_policy: if_not_present
+    restart: always
+    ports:
+      - 5432:5432
+    volumes:
+      - ./volumes/postgres:/var/lib/postgresql
+    environment:
+      - POSTGRES_USER=pppeis
+      - POSTGRES_PASSWORD=pppeis
+      - POSTGRES_DB=pppeis
+    networks:
+      - study
+
+networks:
+  study:
+    driver: bridge
