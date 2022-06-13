@@ -1,0 +1,19 @@
+# Inline asm sources
+*.asm
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects
+*.so
+
+# Executables
+*.out
+
+# Test
+test
